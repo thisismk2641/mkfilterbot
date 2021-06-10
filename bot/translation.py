@@ -6,6 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
+Only for ott movies group made by @Thisis_mk
 
 You can't add me to your group😊
 
