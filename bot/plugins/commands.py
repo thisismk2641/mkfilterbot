@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'join our channel', url="https://t.me/new_ott_movies1"
+                                    'join our channel', url="https://t.me/joinchat/lhOo3WnOZsRhM2E9"
                                 )
                         ]
                     ]
