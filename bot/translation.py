@@ -10,7 +10,7 @@ class Translation(object):
 You can't add me to your group😊
 
 For More Details Click Help Button Below..
-@new_ott_movies1
+https://t.me/joinchat/lhOo3WnOZsRhM2E9
 </i>"""    
     
     HELP_TEXT = """
