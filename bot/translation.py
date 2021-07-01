@@ -11,7 +11,7 @@ Only for ott movies group made by @Thisis_mk
 You can't add me to your group😊
 
 For More Details Click Help Button Below..
-https://t.me/joinchat/lhOo3WnOZsRhM2E9
+
 </i>"""    
     
     HELP_TEXT = """
