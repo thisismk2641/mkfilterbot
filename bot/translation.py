@@ -10,13 +10,13 @@ Only for ott movies group made by @Thisis_mk
 
 You can't add me to your group😊
 Just ask the movie take from here
-For More Details Click Help Button Below..
 
 
-</i>"""    
+
+     
     
-    
-"""
+     
+
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
